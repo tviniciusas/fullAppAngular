@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Macbook Air M1",
+      "price": 599.99
+    },
+    {
+      "id": 2,
+      "name": "Macbook Pro M1",
+      "price": 1299.99
+    },
+    {
+      "id": 3,
+      "name": "iphone 13 pro max",
+      "price": 600.99
+    },
+    {
+      "id": 4,
+      "name": "Apple Watch",
+      "price": 199.99
+    }
+  ],
+  "Supplier": [
+    {
+      "id": 1,
+      "productId": 1,
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "productId": 2,
+      "quantity": 1
+    }
+  
+  ]
+}
