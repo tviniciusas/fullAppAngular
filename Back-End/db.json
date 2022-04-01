@@ -11,14 +11,19 @@
       "price": 1299.99
     },
     {
-      "id": 3,
-      "name": "iphone 13 pro max",
-      "price": 600.99
+      "name": "Iphone 12 PRO",
+      "price": "4.500",
+      "id": 3
     },
     {
-      "id": 4,
-      "name": "Apple Watch",
-      "price": 199.99
+      "name": "Monitor AOC 24",
+      "price": "759",
+      "id": 4
+    },
+    {
+      "name": "Echo Dot Alexa",
+      "price": "450",
+      "id": 5
     }
   ],
   "Supplier": [
@@ -32,6 +37,5 @@
       "productId": 2,
       "quantity": 1
     }
-  
   ]
 }

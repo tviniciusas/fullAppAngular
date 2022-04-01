@@ -3,7 +3,14 @@ html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
 
-.red { color: red; }
+.red { color: rgb(189, 59, 59); }
 
 
 .v-middle { vertical-align: middle; }
+
+
+.blue-snackbar {
+    background: #08c3e4;
+    color: rgb(255, 255, 255);
+}
+
